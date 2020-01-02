@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1577989450 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_hardware_interfaces\nnonce 1577989450-CBD7DB9AD030F0291AA8687CDCDFB8BB4398A1BF\n\n18c76ed5ffbbcd83df51b4d41d8553a7c9c5d5bc 221cd4b7125e678c661f4bde06dcef3e0bda6e59 refs/heads/mkq\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl4ONUoACgkQ8iL05i7N\nJTHhigf+N8ePU1HE2DuyaswGq4VYtSrHF6G/ONxGSkKIBQLeKyfX+vOtQzK7p9x8\n7uu++1CAlltSS66B78IJBJxgX1R+mUyE0aZc/PIaHEjrUIG0MOTpmi0hdlcyAO7E\nbZJdQ2OIMlVPINJSDzrvRaaBCOcAbhoxxT65lhfT3JT+HszDcJNGfFnH7HhxwrIV\n3QC68BKHt7rpM6zAq8N+Do61yBmJ20UUOx6XfCGmJjnfAJzSfVYvrary/gr5TFIF\nriqEa3WsrFkgCAQvpDdSk3KnJpb6QXr5meBxnVlHckB4r9mZUXWMRa03Q+kjYB8C\nRs90+Jwm/NMY1JsC3ypnSU8IYn3hwg\u003d\u003d\n\u003dD+zL\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
